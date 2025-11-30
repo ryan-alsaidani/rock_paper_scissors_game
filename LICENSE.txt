@@ -1,0 +1,2 @@
+Copyright (c) 2025 Ryan Alsaidani. All rights reserved.
+No part of this repository may be used, copied, or distributed without explicit permission from the author.
